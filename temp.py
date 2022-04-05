@@ -1,2 +1,4 @@
-print("welcome to my project")
-print("new update")
+def sample:
+  print("new update")
+sample()
+
